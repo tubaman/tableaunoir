@@ -612,7 +612,7 @@ export class MyMagnets {
         MyMagnets.registerMagnetCollection(MyMagnets.magnetStatesForAutomata);
 
 
-        MyMagnets.newSection("Tilings");
+        MyMagnets.newSection("Tiles");
 
         MyMagnets.registerMagnetCollection(MyMagnets.magnetTilings);
         MyMagnets.registerMagnetCollection(MyMagnets.magnetTilingsTM);
@@ -627,7 +627,7 @@ export class MyMagnets {
         MyMagnets.registerMagnetCollection(MyMagnets.magnetDice);
         MyMagnets.registerMagnetCollection(MyMagnets.magnetCircles);
 
-        MyMagnets.newSection("Vehicules");
+        MyMagnets.newSection("Vehicles");
         MyMagnets.registerIndividualAndCollectionMagnets(MyMagnets.magnetCars);
 
 
